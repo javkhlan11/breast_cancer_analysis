@@ -5,5 +5,5 @@ In order to illustrate how many neighbors gives a reliable prediction, the ratio
 
 The original data imported from sklearn.dataset -> breast_cancer.
 
-From the plot we can see that with only one neighbor is the accuracy perfect. However, it sinks with increasing neighbors, which leads us to bad result. 
+From the plot we can see that with only one neighbor is the accuracy perfect. However, it sinks with increasing neighbors, which leads to bad result. 
 The ideal neighbors is here at 6 which gives us testing accuracy of 94%. 
