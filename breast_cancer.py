@@ -11,7 +11,9 @@ import numpy as np
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split 
 from sklearn.neighbors import KNeighborsClassifier 
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+import scipy 
+
 
 #%% Testing accuracy of KNNeighbors 
 
